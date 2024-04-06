@@ -13,7 +13,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.sparshchadha.githubtest.ui.theme.GithubTestTheme
 // This project is currently used for testing this case -
 /*
-*
+*  Try GitHub scenario
+   A Pe kaam
+   Main me changes
+   Sync A with its local changes and mains change
 * */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
